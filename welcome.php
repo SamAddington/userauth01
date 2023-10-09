@@ -18,7 +18,7 @@ if (!isset($_SESSION["username"]) || $_SESSION["username"] !== "admin123") {
 <body>
     <div class="container">
         <h2>Welcome</h2>
-        <p>Congrats! You have successfully got it!</p>
+        <p>Congrats! You have successfully logged in!</p>
     </div>
 </body>
 </html>
